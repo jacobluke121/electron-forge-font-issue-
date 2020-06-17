@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Calibri Light2";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/calibril.woff") format("woff");
+}
+.san-serif {
+  font-family: "Calibri Light2";
+}
+
+/*# sourceMappingURL=app.css.map */

@@ -1,0 +1,36 @@
+//=================
+// general variables
+//=================
+
+// url is the path inside .webpack/renderer/fonts/....
+
+@font-face {
+font-family: 'Calibri Light2';
+font-style: normal;
+font-weight: normal;
+src: url('/fonts/calibril.woff') format('woff');
+}
+
+//background colours
+$background-color-blue-grey: #a7b3c7;
+$background-color-grey: #636363;
+$background-color-general-white: #fff;
+
+//text color options
+$off-black-text: #313639;
+$off-white-text: #fbf7f5;
+$error-red: #b30000;
+$link-blue: #007bff;
+
+//border color options
+$black-border: #040404;
+
+//button color options
+$btn-light-gray: #b6b6b6;
+
+//font options
+// IMPORTED ttf file fonts Calbri Light, dyslexic
+$san-serif-family:'Calibri Light2', san-serif;
+
+//overlay colours
+$overlay-gray : rgba(128, 128, 128, 0.5);

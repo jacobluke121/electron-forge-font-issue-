@@ -1,0 +1,8 @@
+//import global project variables and mixins
+@import "../global_scss/variables";
+@import "../global_scss/mixin";
+
+//purposefully missing generic font-family to illustrate issue.
+.san-serif {
+  font-family: "Calibri Light2";
+}

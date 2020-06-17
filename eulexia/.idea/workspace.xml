@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d091fbc6-b7d8-4aad-840d-5e9e99dfa0b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d09WFgz7ai79txx6P1Ljj577C2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/renderer/components/App" />
+      <recent name="$PROJECT_DIR$/.webpack/renderer/PDFs" />
+      <recent name="$PROJECT_DIR$/.webpack/renderer" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.webpack/renderer/data_storage" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d091fbc6-b7d8-4aad-840d-5e9e99dfa0b0" name="Default Changelist" comment="" />
+      <created>1591551172729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591551172729</updated>
+      <workItem from="1591551173869" duration="43801000" />
+      <workItem from="1591899253867" duration="60061000" />
+      <workItem from="1592416765955" duration="1099000" />
+      <workItem from="1592426205129" duration="1317000" />
+      <workItem from="1592427797018" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2513" y="311" key="#File_Watchers" timestamp="1591786854966">
+      <screen x="1680" y="-115" width="1920" height="1080" />
+    </state>
+    <state x="2513" y="311" key="#File_Watchers/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591786854966" />
+    <state x="704" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592148674801">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="349" key="#com.intellij.fileTypes.FileTypeChooser/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1592148674801" />
+    <state x="747" y="271" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591641454883">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="271" key="#com.intellij.ide.macro.MacrosDialog/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591641454883" />
+    <state x="2305" y="210" width="669" height="665" key="EditFileWatcherDialog" timestamp="1591798926306">
+      <screen x="1680" y="-115" width="1920" height="1080" />
+    </state>
+    <state x="2305" y="210" width="669" height="665" key="EditFileWatcherDialog/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591798926306" />
+    <state x="625" y="325" width="669" height="627" key="EditFileWatcherDialog/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591641647091" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1592427815393">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591786051394" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/1920.-201.1920.1057/0.23.1920.1057/-1680.191.1680.1027@0.23.1920.1057" timestamp="1592427815393" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591812838939" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1592427815391">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591786051393" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/1920.-201.1920.1057/0.23.1920.1057/-1680.191.1680.1027@0.23.1920.1057" timestamp="1592427815391" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591812838936" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1592427815389">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591786051392" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/1920.-201.1920.1057/0.23.1920.1057/-1680.191.1680.1027@0.23.1920.1057" timestamp="1592427815389" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591812838935" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1592427815392">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591786051393" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/1920.-201.1920.1057/0.23.1920.1057/-1680.191.1680.1027@0.23.1920.1057" timestamp="1592427815392" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591812838938" />
+    <state x="469" y="198" key="SettingsEditor" timestamp="1592427851202">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2149" y="64" key="SettingsEditor/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591798928015" />
+    <state x="469" y="198" key="SettingsEditor/1920.-201.1920.1057/0.23.1920.1057/-1680.191.1680.1027@0.23.1920.1057" timestamp="1592427851202" />
+    <state x="469" y="179" key="SettingsEditor/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591649232593" />
+    <state x="-1619" y="191" width="1564" height="907" key="dock-window-1" timestamp="1592069175959">
+      <screen x="-1680" y="191" width="1680" height="1027" />
+    </state>
+    <state x="-1619" y="191" width="1564" height="907" key="dock-window-1/1920.-201.1920.1057/0.0.1920.1080/-1680.191.1680.1027@0.0.1920.1080" timestamp="1592069175959" />
+    <state x="-1619" y="168" width="1564" height="714" key="dock-window-1/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1592058988587" />
+    <state x="-1680" y="168" width="1680" height="1050" key="dock-window-2" timestamp="1591626640950">
+      <screen x="-1680" y="191" width="1680" height="1027" />
+    </state>
+    <state x="-1680" y="168" width="1680" height="1050" key="dock-window-2/1920.-201.1920.1057/0.0.1920.1080/-1680.191.1680.1027@0.0.1920.1080" timestamp="1591626640950" />
+    <state x="2439" y="309" key="scopes" timestamp="1591786929669">
+      <screen x="1680" y="-115" width="1920" height="1080" />
+    </state>
+    <state x="2439" y="309" key="scopes/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591786929669" />
+    <state x="759" y="424" key="scopes/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1591641460517" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1592032183343">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2303" y="124" width="672" height="678" key="search.everywhere.popup/1680.-115.1920.1080/0.0.1680.1050@1680.-115.1920.1080" timestamp="1591974165643" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.-224.1920.1080/0.0.1920.1080/-1680.168.1680.1050@0.0.1920.1080" timestamp="1592032183343" />
+    <state x="690" y="395" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592427510579">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="690" y="395" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.-201.1920.1057/0.23.1920.1057/-1680.191.1680.1027@0.23.1920.1057" timestamp="1592427510579" />
+  </component>
+</project>
