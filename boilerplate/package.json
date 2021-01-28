@@ -75,7 +75,7 @@
     "@electron-forge/plugin-webpack": "6.0.0-beta.51",
     "copy-webpack-plugin": "^6.0.2",
     "css-loader": "^3.0.0",
-    "electron": "9.0.0",
+    "electron": "9.4.0",
     "electron-is-dev": "^1.2.0",
     "electron-pdf-window": "^1.0.12",
     "file-loader": "^6.0.0",
